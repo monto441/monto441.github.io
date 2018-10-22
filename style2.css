@@ -1,0 +1,17 @@
+body{
+	background-color: #A3FFB3;
+}
+.gif1{
+	position: absolute;
+	height: 600px;
+	width: 1000px;
+	left: 200px;
+	top: 200px;
+}
+.p2{
+	color: white;
+	position: absolute;
+	width: 600px;
+	left: 400px;
+	top: 400px;
+}

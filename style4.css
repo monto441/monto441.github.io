@@ -1,0 +1,18 @@
+body{
+	background-color: #FFA70C;
+}
+.gif4{
+	position: absolute;
+	height: 600px;
+	width: 1000px;
+	left: 200px;
+	top: 200px;
+}
+.p4{
+	color: white;
+	position: absolute;
+	width: 600px;
+	top: 400px;
+	left: 400px;
+
+}
